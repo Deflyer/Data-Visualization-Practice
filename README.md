@@ -1,1 +1,1 @@
-# Visualiza-o_computacional_Pratica
+# VisComp_Practice
